@@ -1,6 +1,15 @@
-# flutter_application_1
+# flutter_demo_app
 
-A new Flutter project.
+![Alt text](https://raw.githubusercontent.com/GIHAA/flutter-demo-app/main/readme.jpg?token=GHSAT0AAAAAABZMCVSZUNBII6OH5KNEZ5XQY7B6FJA)
+
+
+## Goals
+- Learn dart basics
+- Learn navigation
+- Learn widgets
+- Learn material components widgets
+
+<br>
 
 ## Getting Started
 
